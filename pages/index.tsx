@@ -16,6 +16,8 @@ export default function Home() {
     });
 
     setEmail("");
+
+    alert("Cadastrado com sucesso!");
   }
 
   return (
